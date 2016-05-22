@@ -1,6 +1,6 @@
 # conkiran
 ### An Iranian time and date conky.
-![](conkiran_screenshot.png)
+![conkiran](https://raw.githubusercontent.com/mostafaasadi/conkiran/master/conkiran_screenshot.jpeg)
 
 ### It shows time (hour:minute:second), weekday, Persian date (Shamsi Jalali calendar), Gregorian date and a personal expression. 
 
