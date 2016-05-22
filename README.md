@@ -14,7 +14,7 @@
 -  Active **.conkyrc** from conky or conky-manager
 
 # References 
-[Ubuntu forum](http://ubuntuforums.org/showthread.php?t=867076), [this article](http://barzideh.blog.ir/1394/06/01/use-persian-in-conky) by milad barzideh and [conky](http://conky.sourceforge.net/variables.html)
+[Ubuntu forum](http://ubuntuforums.org/showthread.php?t=867076), [this article](http://barzideh.blog.ir/1394/06/01/use-persian-in-conky) by Milad Barzideh and [conky](http://conky.sourceforge.net/variables.html)
 
 # License
 This code is free software. You could redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
