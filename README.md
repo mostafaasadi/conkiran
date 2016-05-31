@@ -7,7 +7,7 @@
 # Installation
 -  Install conky and conky manager (optional)
 -  Install jcal & jdate ([for ubuntu follow this wiki](https://wiki.ubuntu.ir/wiki/Jcal))
--  Install [fribid](https://www.fribidi.org/) (in ubuntu install fribidi-bin)
+-  Install [fribid](https://www.fribidi.org/) (in ubuntu install libfribidi-bin)
 -  Install [vazir](https://rastikerdar.github.io/vazir-font/), [ubuntu](http://font.ubuntu.com/) and [aller](https://daltonmaag.com/aller) fonts 
 -  Download and put **.conkyrc** file to your ```~/.conky``` folder
 -  You could change personal expression by editing template1 variable (line:52) (In no way not recommended :blush: )
