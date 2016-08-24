@@ -24,9 +24,9 @@ own_window_argb_value 0
 border_inner_margin 0
 border_outer_margin 0
 
-alignment middle_middle
-gap_x 400
-gap_y -70
+alignment middle_left
+gap_x 60
+gap_y 50
 
 
 # Graphics settings
@@ -46,8 +46,9 @@ default_color FFFFFF
 
 own_window_argb_value 0
 own_window_argb_visual yes
-own_window_colour 000000
+own_window_color 000000
 minimum_size 0 0
+own_window_colour 000000
 
 template1 اللهم عجل لولیک الفرج
 
@@ -55,5 +56,5 @@ template1 اللهم عجل لولیک الفرج
 TEXT
 ${alignc}${font ubuntu:size=110}${time %H : %M }${font aller:size=40}: ${time %S}
 ${font vazir:size=30}${color f0ff00}${exec jdate +%W|grep -o --color=never -e ^....|fribidi --ltr} ${exec jdate +%V|fribidi --ltr} ${exec jdate +%W|grep -o --color=never -e ..$|fribidi --ltr}
- ${alignc}${font aller:size=30}${color f0ff00}${exec date +%Y} ${offset 2}${exec date +%B} ${offset 2}${exec date +%W}${voffset -80}${font vazir:size=70}${color ff8000} ${exec jdate +%G|fribidi --ltr}
+ ${alignc}${font aller:size=30}${color f0ff00}${exec date +%Y} ${offset 2}${exec date +%B} ${offset 2}${exec date +%e}${voffset -80}${font vazir:size=70}${color ff8000} ${exec jdate +%G|fribidi --ltr}
 ${alignc}${voffset -60}${font vazir:size=40}${color e6ffe6}${exec echo "${template1}" |fribidi --ltr}
